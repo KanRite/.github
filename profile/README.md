@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kanrite.github.io/rite/"><strong>Website</strong></a> ·
+  <a href="https://kanrite.com/"><strong>Website</strong></a> ·
   <a href="https://github.com/KanRite/rite#install">Install</a> ·
   <a href="https://github.com/KanRite/rite/blob/main/docs/user-guide.md">User guide</a> ·
   <a href="https://github.com/KanRite/rite/releases">Releases</a> ·
